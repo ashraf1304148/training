@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Squat and Walk",
+        "time": "68",
+        "thumbnail": "assets/img/videos/1.jpeg",
+        "videoUrl": "assets/videos/1.mp4"
+    },
+    {
+        "id": "2",
+        "title": "Plie Squat and Heel Raises",
+        "time": "55",
+        "thumbnail": "assets/img/videos/2.jpeg",
+        "videoUrl": "assets/videos/2.mp4"
+    },
+    {
+        "id": "3",
+        "title": "aka One-Arm, One-Leg Plank",
+        "time": "64",
+        "thumbnail": "assets/img/videos/3.jpeg",
+        "videoUrl": "assets/videos/3.mp4"
+    },
+    {
+        "id": "4",
+        "title": " Back: Pullups",
+        "time": "139",
+        "thumbnail": "assets/img/videos/4.jpeg",
+        "videoUrl": "assets/videos/4.mp4"
+    },
+    {
+        "id": "5",
+        "title": "Arms: Dips",
+        "time": "169",
+        "thumbnail": "assets/img/videos/5.jpeg",
+        "videoUrl": "assets/videos/5.mp4"
+    },
+    {
+        "id": "6",
+        "title": "Arms: Diamond Pushups",
+        "time": "110",
+        "thumbnail": "assets/img/videos/6.jpeg",
+        "videoUrl": "assets/videos/6.mp4"
+    },
+    {
+        "id": "7",
+        "title": "BOSU, Puncher’s, and TRX Pushups",
+        "time": "194",
+        "thumbnail": "assets/img/videos/7.jpeg",
+        "videoUrl": "assets/videos/7.mp4"
+    },
+    {
+        "id": "8",
+        "title": "Planks",
+        "time": "77",
+        "thumbnail": "assets/img/videos/8.jpeg",
+        "videoUrl": "assets/videos/8.mp4"
+    },
+    {
+        "id": "9",
+        "title": "Barbell Ab Rollout",
+        "time": "152",
+        "thumbnail": "assets/img/videos/9.jpeg",
+        "videoUrl": "assets/videos/9.mp4"
+    },
+    {
+        "id": "10",
+        "title": "Jackknife Situp",
+        "time": "123",
+        "thumbnail": "assets/img/videos/10.jpeg",
+        "videoUrl": "assets/videos/10.mp4"
+    }
+]
